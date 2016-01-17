@@ -20,7 +20,7 @@ public class Calculator {
 		   
 		   System.out.println("The WebDriver IS SHOWN HERE::"+driver);
 	  
-	    driver.manage().timeouts().implicitlyWait(10000,TimeUnit.SECONDS);
+	    driver.manage().timeouts().implicitlyWait(20000,TimeUnit.SECONDS);
 	    
 	   
  	

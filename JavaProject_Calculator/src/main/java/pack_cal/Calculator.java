@@ -28,8 +28,10 @@ public class Calculator {
   //driver.navigate().to();
 	
 	//    C:\ECLIPSE_WORKSPACE\Java_Maven
-	    
-driver.get("C:\\ECLIPSE_WORKSPACE\\JavaProject_Calculator\\Calculator1.html");
+	
+	    String html_path="C:\\Users\\IBM_ADMIN\\.jenkins\\workspace\\GitHub_Demo\\JavaProject_Calculator\\";
+driver.get(html_path+"Calculator1.html");
+
 	   // driver.get("Calculator1.html");
   // https://swarnasetu-beta.mybluemix.net/
   //Maximize the browser

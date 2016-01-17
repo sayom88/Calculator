@@ -36,6 +36,10 @@ driver.get(html_path+"Calculator1.html");
   // https://swarnasetu-beta.mybluemix.net/
   //Maximize the browser
   driver.manage().window().maximize();
+  
+  Thread.sleep(2000);
+  
+  driver.quit();
 	  }
 
 }

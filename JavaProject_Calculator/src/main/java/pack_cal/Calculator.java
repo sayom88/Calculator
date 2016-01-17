@@ -24,7 +24,7 @@ public class Calculator {
 	    
 	   
  	
-  //Launch websites
+  //Launch websitess
   //driver.navigate().to();
 	
 	//    C:\ECLIPSE_WORKSPACE\Java_Maven

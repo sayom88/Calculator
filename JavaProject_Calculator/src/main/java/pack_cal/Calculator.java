@@ -29,7 +29,7 @@ public class Calculator {
 	
 	//    C:\ECLIPSE_WORKSPACE\Java_Maven
 	
-	    String html_path="C:\\Users\\IBM_ADMIN\\.jenkins\\workspace\\GitHub_Demo\\JavaProject_Calculator\\";
+	    String html_path="C:\\";
 driver.get(html_path+"Calculator1.html");
 
 	   // driver.get("Calculator1.html");
